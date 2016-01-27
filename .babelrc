@@ -1,0 +1,5 @@
+{
+  "plugins": ["babel-snabbdom-jsx"],
+  "presets": ["es2015"],
+  "sourceMaps": true
+}
